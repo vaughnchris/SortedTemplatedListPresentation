@@ -3,7 +3,7 @@
 #include "SortedLinkedList.h"
 
 /**
- * HELLO!
+ *
  * @struct Person
  * @brief A simple struct to demonstrate the sorted list with a user-defined type.
  *
