@@ -96,6 +96,7 @@ int main() {
     std::cout << "After removing 2: ";
     intList.display();  // Expected output: 1 -> 3 -> 5 -> 8
     std::cout << std::endl;
+    //some text
 
 
     // --- Example with strings ---
